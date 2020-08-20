@@ -74,7 +74,7 @@ Já fizemos bastante coisa, mas nossa aplicação ainda não está parecendo com
 
 No seu arquivo index.html escreva o código abaixo:
 
-´´´
+
 <html>
     <head>
         <title>Meu primeiro site :D</title>
@@ -102,7 +102,7 @@ No seu arquivo index.html escreva o código abaixo:
 
     </body>
 </html>
-´´´
+
 Infelizmente não podemos entrar em detalhe sobre a sintaxe do HTML nesse tutorial. Mas vamos destacar algumas coisas importantes.
 
 É importante que as tags input tenham um atributo name que vamos usar para retornar o valor submetido.
@@ -148,4 +148,4 @@ Note que, por padrão, Flask procura seu arquivo de template dentro da pasta tem
 Para simplificar ainda mais o nosso exemplo nós estamos passando os valores do form por requisições do tipo GET, o que não é aconselhável.
 Agora basta ir no seu navegador na URL http://localhost:5000/ e digitar os valores das suas notas 😄.
 
-
+```Fontes: ´´´  https://neps.academy/post/criando-uma-aplica%C3%A7%C3%A3o-web-com-flask---exemplo-simples---parte-1
