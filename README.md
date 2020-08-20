@@ -34,7 +34,7 @@ Para instalar Flask abra um terminal (linha de comando) e execute o comando abai
 ``` pip install flask==0.12.2 ```   
 
 
-### Criar um arquivo Python (main.py) e enviar uma mensagem (Olá Flask) no browser
+### Criando um arquivo Python e enviar uma mensagem no browser
 
 ```
 from flask import Flask     # Importa a biblioteca
@@ -53,6 +53,22 @@ app.run()   # Executa a aplicação
  ## Olá Flask!
 ```
 
+### Criando uma aplicação web super rápido - Mostrando página HTML
+
+```
+from flask import Flask, render_template
+
+app = Flask(__name__)
+
+@app.route('/inicio')
+
+def ola():
+    return render_template('lista.html')
+
+app.run()
+```
+
+
 ###  Mensagem no browser (localhost)
 
 Para testarmos se nossa aplicação funciona. No navegador, acessaremos a URL http://127.0.0.1:5000/inicio. O resultado será a mensagem "Olá Flask!
@@ -60,6 +76,10 @@ Para testarmos se nossa aplicação funciona. No navegador, acessaremos a URL ht
 ``` http://127.0.0.1:5000/inicio ```
 
   ![](https://github.com/eduardodsr/Flask/blob/master/python/Flask.png?raw=true)
+  
+  
+   ![](https://github.com/eduardodsr/Flask/blob/master/python/Flask2.png?raw=true)
+  
  
 
 ```Fontes: ´´´  https://www.alura.com.br/conteudo/flask-rotas-templates-autenticacao
