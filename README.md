@@ -29,9 +29,7 @@ Primeiro você tem que ter Python 3, pip e uma IDE da sua preferência instalada
 
 Para instalar Flask abra um terminal (linha de comando) e execute o comando abaixo :
 
-``` pip install flask ``` ou
-
-``` pip install flask==0.12.2 ```   
+``` pip install flask ``` 
 
 
 ### Criando um arquivo Python e enviar uma mensagem no browser
