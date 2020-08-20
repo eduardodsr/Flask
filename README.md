@@ -13,6 +13,14 @@ O Python, que é a linguagem que usaremos durante esse curso para criar aplicaç
 
 Se você já sabe Python, esses conhecimentos te ajudarão a trabalhar ainda melhor com a Web.
 
+### Flask
+
+O Flask é considerado um microframework, o que basicamente significa que ele não vem com muitas soluções embutidas para resolver problemas que não foram apresentados ainda. Dessa forma, o Flask é mais flexível: à medida em que os problemas vão aparecendo, nós os resolvemos com soluções que escolhemos no caminho, sem nos prendermos a soluções fixas.
+
+Para começarmos a estudar o Flask, primeiro precisamos entender como funciona a Web. Quando digitamos um endereço no navegador, ele é enviado (a partir do HTTP) para um servidor, por meio de uma requisição (Request). Essa requisição é processada no servidor e enviada de volta ao navegador na forma de uma resposta (response), também por meio do HTTP.
+
+Com essa resposta, o navegador irá renderizar o HTML ou até uma mensagem. O importante é sabermos que, no nosso caso, todo o processamento se dará no Flask.
+
 ### Requisitos
 
 Primeiro você tem que ter Python 3, pip e uma IDE da sua preferência instalada e configurada. 
@@ -24,6 +32,7 @@ Para instalar Flask abra um terminal (linha de comando) e execute o comando abai
 ``` pip install flask ``` ou
 
 ``` pip install flask==0.12.2 ```   
+
 
 ### Criar um arquivo Python (main.py) e enviar uma mensagem (Olá Flask) no browser
 
@@ -45,6 +54,8 @@ app.run()   # Executa a aplicação
 ```
 
 ###  Mensagem no browser (localhost)
+
+Para testarmos se nossa aplicação funciona. No navegador, acessaremos a URL http://127.0.0.1:5000/inicio. O resultado será a mensagem "Olá Flask!
 
 ``` http://127.0.0.1:5000/inicio ```
 
