@@ -44,7 +44,11 @@ app.run()   # Executa a aplicação
  ## Olá Flask!
 ```
 
+###  Mensagem no browser (Olá Flask)
 
+``` http://127.0.0.1:5000/inicio ```
+
+  ![](https://github.com/eduardodsr/Flask/blob/master/python/Flask.png?raw=true)
  
 
 ```Fontes: ´´´  https://www.alura.com.br/conteudo/flask-rotas-templates-autenticacao
