@@ -21,9 +21,9 @@ Para instalar Flask abra um terminal (linha de comando) e execute o comando abai
 
 ``` pip install flask ``` ou
 
-``` pip install flask ```
+``` pip install flask==0.12.2 ```   
 
-### Criar um arquivo main.py e enviar uma mensagem de teste no browser
+### Criar um arquivo Python (main.py) e enviar uma mensagem (Olá Flask) no browser
 
 ```
 from flask import Flask     # Importa a biblioteca
