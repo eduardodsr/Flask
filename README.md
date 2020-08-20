@@ -11,10 +11,13 @@ Dentro da pasta templates crie o arquivo index.html. Pronto! Temos todos os arqu
 ### Instalando Flask
 Para instalar Flask abra um terminal (linha de comando) na pasta Flask Tutorial e execute o comando abaixo:
 
+´´´
 pip install flask
-Primeiro programa em Flask
-Vá no arquivo main.py e escreva o seguinte código:
+´´´
 
+### Primeiro programa em Flask
+Vá no arquivo main.py e escreva o seguinte código:
+´´´
 from flask import Flask # Importa a biblioteca
 
 app = Flask(__name__) # Inicializa a aplicação
@@ -25,6 +28,8 @@ def main():
 
 if __name__ == '__main__':
   app.run(debug=True) # Executa a aplicação
+´´´
+
 Na primeira linha nós estamos importando a biblioteca flask, depois a gente registra uma rota na nossa aplicação usando uma annotation. A annotation especifíca que a função main será executada quando um usuário fizer uma requisição no endereço “http://localhost:5000/” (root).
 
 Caso você queira um endereço diferente, basta modificar o parâmetro do método route, por exemplo @app.route('/novo-caminho') executará a função quando o usuário acessar “http://localhost:5000/novo-caminho”.
