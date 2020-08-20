@@ -2,6 +2,8 @@
 
 ### Flask parte 1: Crie uma webapp com Python 3😄
 
+  ![](https://github.com/eduardodsr/Flask/blob/master/python/flask-python.png?raw=true)
+
 Flask Microframework - Web apps rápidos e flexíveis
 
 O Flask é um Microframework. Isso significa que ele não precisa de várias dependências para funcionar — ou seja, para colocar uma página na Web ou criar uma aplicação. 
@@ -41,6 +43,8 @@ app.run()   # Executa a aplicação
  ## Retorna a mensagem: 
  ## Olá Flask!
 ```
+
+
  
 
 ```Fontes: ´´´  https://www.alura.com.br/conteudo/flask-rotas-templates-autenticacao
