@@ -6,7 +6,7 @@
   
  
  <p align="center">
-  <img src=https://github.com/eduardodsr/Flask/blob/master/python/flask-python.png?raw=true" alt="imagem" width="1000px" />
+  <img src=https://github.com/eduardodsr/Flask/blob/master/python/flask-python.png?raw=true" alt="imagem" width="500px" />
  </p>
   
   
