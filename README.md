@@ -44,7 +44,7 @@ app.run()   # Executa a aplicação
  ## Olá Flask!
 ```
 
-###  Mensagem no browser (Olá Flask)
+###  Mensagem no browser (localhost)
 
 ``` http://127.0.0.1:5000/inicio ```
 
