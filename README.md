@@ -72,7 +72,9 @@ app.run()
 
 ###  Mensagem no browser (localhost)
 
-Para testarmos se nossa aplicação funciona. No navegador, acessaremos a URL http://127.0.0.1:5000/inicio. O resultado será a mensagem "Olá Flask!
+Para testarmos se nossa aplicação funciona. No navegador, acessaremos a URL http://127.0.0.1:5000/inicio. 
+
+O resultado será a mensagem "Olá Flask!
 
 ``` http://127.0.0.1:5000/inicio ```
 
@@ -122,7 +124,7 @@ Para testarmos se nossa aplicação funciona. No navegador, acessaremos a URL ht
 
 Para testarmos se nossa aplicação funciona. No navegador, acessaremos a URL http://127.0.0.1:5000/inicio. 
 
-O resultado será o template lista.html
+O resultado será o conteudo do template lista.html
 
 ``` http://127.0.0.1:5000/inicio ```
 
