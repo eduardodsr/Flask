@@ -1,6 +1,6 @@
 # Flask Tutorial
 
-### Flask parte 1: Crie uma webapp com Python 3😄
+### Criando uma webapp simples com Python 3😄
 
   ![](https://github.com/eduardodsr/Flask/blob/master/python/flask-python.png?raw=true)
 
@@ -68,7 +68,18 @@ def ola():
 app.run()
 ```
 
-### Criando um template lista.html
+
+###  Mensagem no browser (localhost)
+
+Para testarmos se nossa aplicação funciona. No navegador, acessaremos a URL http://127.0.0.1:5000/inicio. O resultado será a mensagem "Olá Flask!
+
+``` http://127.0.0.1:5000/inicio ```
+
+  ![](https://github.com/eduardodsr/Flask/blob/master/python/Flask.png?raw=true)
+  
+    
+  
+  ### Criando um template lista.html
 
 ```
 <!DOCTYPE html>
@@ -108,15 +119,14 @@ app.run()
 
 ###  Mensagem no browser (localhost)
 
-Para testarmos se nossa aplicação funciona. No navegador, acessaremos a URL http://127.0.0.1:5000/inicio. O resultado será a mensagem "Olá Flask!
+Para testarmos se nossa aplicação funciona. No navegador, acessaremos a URL http://127.0.0.1:5000/inicio. 
+
+O resultado será o template lista.html
 
 ``` http://127.0.0.1:5000/inicio ```
 
-  ![](https://github.com/eduardodsr/Flask/blob/master/python/Flask.png?raw=true)
-  
-  
+    
    ![](https://github.com/eduardodsr/Flask/blob/master/python/Flask2.png?raw=true)
-  
  
 
 ```Fontes: ´´´  https://www.alura.com.br/conteudo/flask-rotas-templates-autenticacao
