@@ -3,6 +3,13 @@
 ### Criando uma webapp simples com Python 3😄
 
   ![](https://github.com/eduardodsr/Flask/blob/master/python/flask-python.png?raw=true)
+  
+ 
+ <p align="center">
+  <img src=https://github.com/eduardodsr/Flask/blob/master/python/flask-python.png?raw=true" alt="imagem" width="50px" />
+ </p>
+  
+  
 
 ### Flask Microframework - Web apps rápidos e flexíveis
 
