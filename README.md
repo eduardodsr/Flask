@@ -3,7 +3,7 @@
 ### Criando uma webapp simples com Python 3😄
 
  <p align="center">
-  <img src=https://github.com/eduardodsr/Flask/blob/master/python/flask-python.png?raw=true" alt="imagem" width="500px" />
+  <img src=https://github.com/eduardodsr/Flask/blob/master/python/flask-python.png?raw=true" alt="imagem" width="300px" />
  </p>
     
 
