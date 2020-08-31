@@ -50,6 +50,14 @@ app.run(host='0.0.0.0', port=8080) # Executa a aplicação
 
 ``` 
 
+ <p align="center">
+  <img src=https://github.com/eduardodsr/Flask/blob/master/python/flask_hello_world.png" alt="imagem" width="800px" />
+ </p>
+                                                                                                                   
+                                                                                                                   
+![](https://github.com/eduardodsr/Flask/blob/master/python/flask_hello_world.png?raw=true)
+
+
 ### Criando um arquivo Python e enviar uma mensagem no browser
 
 ```
