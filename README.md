@@ -4,6 +4,9 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/eduardodsr/Flask)
 ![GitHub top language](https://img.shields.io/github/languages/top/eduardodsr/Flask)
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/Flask)
+[![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardods/)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Flask)
+
 
 ### Criando uma webapp simples com Python 3😄
 
