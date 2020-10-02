@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardods/)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Flask)
 
-## Python é a a linguagem utilizada para criar aplicações com o Flask
+## Python é a linguagem utilizada para criar aplicações com o Flask
 
  <p align="center">
   <img src=https://github.com/eduardodsr/Flask/blob/master/python/flask-python.png?raw=true" alt="imagem" width="250px" />
