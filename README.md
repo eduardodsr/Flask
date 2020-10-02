@@ -1,4 +1,4 @@
-# Flask Tutorial
+# Flask Tutorial 😄
 
 [![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardods/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/eduardodsr/Flask)
@@ -8,7 +8,7 @@
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Flask)
 
 
-### Criando uma webapp simples com Python 3😄
+### Criando uma webapp simples com Python 3
 
  <p align="center">
   <img src=https://github.com/eduardodsr/Flask/blob/master/python/flask-python.png?raw=true" alt="imagem" width="300px" />
@@ -24,7 +24,7 @@ O Python, que é a linguagem que usaremos durante esse curso para criar aplicaç
 
 Se você já sabe Python, esses conhecimentos te ajudarão a trabalhar ainda melhor com a Web.
 
-### Flask
+## Flask
 
 O Flask é considerado um microframework, o que basicamente significa que ele não vem com muitas soluções embutidas para resolver problemas que não foram apresentados ainda. Dessa forma, o Flask é mais flexível: à medida em que os problemas vão aparecendo, nós os resolvemos com soluções que escolhemos no caminho, sem nos prendermos a soluções fixas.
 
