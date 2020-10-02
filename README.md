@@ -7,18 +7,11 @@
 [![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardods/)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Flask)
 
+## Python é a a linguagem utilizada para criar aplicações com o Flask
+
  <p align="center">
   <img src=https://github.com/eduardodsr/Flask/blob/master/python/flask-python.png?raw=true" alt="imagem" width="250px" />
  </p> 
-
-## Flask Microframework - Web apps rápidos e flexíveis
-
-O Flask é um Microframework. Isso significa que ele não precisa de várias dependências para funcionar — ou seja, para colocar uma página na Web ou criar uma aplicação. 
-Além disso, ele é muito bom pois tem uma forma bem minimalista de utilizar o Python, sem que seja necessário escrever muito código, e é muito bem organizado.
-
-O Python, que é a linguagem que usaremos durante esse curso para criar aplicações com o Flask, é a linguagem que mais cresce atualmente. 
-
-Se você já sabe Python, esses conhecimentos te ajudarão a trabalhar ainda melhor com a Web.
 
 ## Flask
 
